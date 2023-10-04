@@ -1,7 +1,7 @@
 # Project Name
 School Security System Using Facial Recognition
 # Project Description
-The "School Security System Using Facial Recognization" is an advanced security solution designed to enhance safety and access control within educational institutions. Leveraging cutting-edge facial recognition technology, this system provides a seamless and efficient way to manage and monitor school premises.
+The "School Security System Using Facial Recognition" is an advanced security solution designed to enhance safety and access control within educational institutions. Leveraging cutting-edge facial recognition technology, this system provides a seamless and efficient way to manage and monitor school premises.
 # Technologies Used
  1. Python 
  2. OpenCV
