@@ -9,7 +9,7 @@ The "School Security System Using Facial Recognization" is an advanced security 
 # Contributors
  1. Krish Goel
  2. Meghna Das
- 3. Aastha Kumar yeet
+ 3. Aastha Kumar
  4. Tanmayi G
  5. Tangudu Suraj Kumar
 # Functionalities
